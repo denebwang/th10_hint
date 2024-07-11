@@ -296,10 +296,10 @@ Stage : 4
       Scale    : 1.0
    End
 
-   #乌鸦阵上线时机
+   #乌鸦阵下线时机
 
    Tips
-      Text    :"UP"
+      Text    :"DOWN"
       Pos        : 180, 150
       Count    : 1660
       Base    : mboss_1
