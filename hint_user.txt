@@ -1,0 +1,652 @@
+Version = 1.0
+
+Stage : 1
+   
+   Tips
+      Text    :"---------------------GKD---------------------"
+      Pos        : -24, 122
+      Count    : 0
+      Base    : start
+      Align    : center
+      Time    : 6000
+      Alpha    : 255
+      Color    : 81, 184, 135
+      Scale    : 1.0
+   End
+
+
+   Tips
+      Text    :"---------------------GHS---------------------"
+      Pos        : -24, 142
+      Count    : 0
+      Base    : start
+      Align    : center
+      Time    : 6000
+      Alpha    : 255
+      Color    : 255, 156, 47
+      Scale    : 1.0
+   End
+
+   #魔理沙决死位置
+
+   Tips
+      Text    :"+"
+      Pos        : 38, 338
+      Count    : 1400
+      Base    : start
+      Align    : center
+      Time    : 180
+      Alpha    : 255
+      Color    : 255, 255, 0
+      Scale    : 1.0
+   End
+
+   #灵梦决死位置
+
+   Tips
+      Text    :"+"
+      Pos        : 50, 374
+      Count    : 1400
+      Base    : start
+      Align    : center
+      Time    : 180
+      Alpha    : 255
+      Color    : 255, 0, 100
+      Scale    : 1.0
+   End
+
+   #道中非参考线
+
+   Tips
+      Text    :"---------------------biu---------------------"
+      Pos        : 0, 335
+      Count    : 1
+      Base    : mboss_1
+      Align    : center
+      Time    : 500
+      Alpha    : 255
+      Color    : 255, 156, 47
+      Scale    : 1.0
+   End
+
+StageEnd
+
+
+
+Stage : 2
+
+   Tips
+      Text    :"---------------------GKD---------------------"
+      Pos        : -24, 122
+      Count    : 0
+      Base    : start
+      Align    : center
+      Time    : 8000
+      Alpha    : 255
+      Color    : 81, 184, 135
+      Scale    : 1.0
+   End
+
+   Tips
+      Text    :"---------------------GHS---------------------"
+      Pos        : -24, 142
+      Count    : 0
+      Base    : start
+      Align    : center
+      Time    : 8000
+      Alpha    : 255
+      Color    : 255, 156, 47
+      Scale    : 1.0
+   End
+
+   #毛玉阵位移起始位置
+
+   Tips
+      Text    :"---"
+      Pos        : -180, 45
+      Count    : 1100
+      Base    : start
+      Align    : center
+      Time    : 500
+      Alpha    : 255
+      Color    : 233, 233, 233
+      Scale    : 1.0
+   End
+
+   #毛玉阵拉出时机
+
+   #Tips
+   #   Text    :"==>"
+   #   Pos        : -180, 100
+   #   Count    : 1855
+   #   Base    : start
+   #   Align    : center
+   #   Time    : 30
+   #   Alpha    : 255
+   #   Color    : 233, 233, 233
+   #   Scale    : 2.0
+   #End
+
+   #6吴克决死位置
+
+   Tips
+      Text    :"----"
+      Pos        : 0, 250
+      Count    : 4700
+      Base    : start
+      Align    : center
+      Time    : 300
+      Alpha    : 255
+      Color    : 233, 233, 233
+      Scale    : 1.0
+   End
+
+   #倒数第二波毛玉
+
+   Tips
+      Text    :"xxx"
+      Pos        : 180, 100
+      Count    : 3850
+      Base    : start
+      Align    : center
+      Time    : 100
+      Alpha    : 255
+      Color    : 233, 233, 233
+      Scale    : 1.0
+   End
+
+StageEnd
+
+
+
+Stage : 3
+
+   Tips
+      Text    :"---------------------GKD---------------------"
+      Pos        : -24, 122
+      Count    : 0
+      Base    : start
+      Align    : center
+      Time    : 13500
+      Alpha    : 255
+      Color    : 81, 184, 135
+      Scale    : 1.0
+   End
+
+   Tips
+      Text    :"---------------------GHS---------------------"
+      Pos        : -24, 142
+      Count    : 0
+      Base    : start
+      Align    : center
+      Time    : 13500
+      Alpha    : 255
+      Color    : 255, 156, 47
+      Scale    : 1.0
+   End
+
+   #魔理沙开幕决死位置
+
+   Tips
+      Text    :"+"
+      Pos        : -128, 240
+      Count    : 1000
+      Base    : start
+      Align    : center
+      Time    : 400
+      Alpha    : 255
+      Color    : 255, 255, 255
+      Scale    : 1.0
+   End
+
+   Tips
+      Text    :"+"
+      Pos        : 128, 228
+      Count    : 1000
+      Base    : start
+      Align    : center
+      Time    : 400
+      Alpha    : 255
+      Color    : 255, 255, 255
+      Scale    : 1.0
+   End
+
+   #前半4吴克决死参考线（灵梦）
+
+   Tips
+      Text    :"------------------------biu------------------"
+      Pos        : -24, 261
+      Count    : 3300
+      Base    : start
+      Align    : center
+      Time    : 400
+      Alpha    : 255
+      Color    : 255, 255, 255
+      Scale    : 1.0
+   End
+
+   #魔理沙决死位置
+
+   Tips
+      Text    :"+"
+      Pos        : 0, 242
+      Count    : 3300
+      Base    : start
+      Align    : center
+      Time    : 400
+      Alpha    : 255
+      Color    : 255, 255, 255
+      Scale    : 1.0
+   End
+
+   #灵梦A关底4吴克站位
+
+   Tips
+      Text    :"|"
+      Pos        : 50, 130
+      Count    : 7500
+      Base    : start
+      Align    : center
+      Time    : 500
+      Alpha    : 255
+      Color    : 255, 255, 255
+      Scale    : 1.0
+   End
+
+   #1符正中安定区参考线
+
+   Tips
+      Text    :"|"
+      Pos        : 19, 370
+      Count    : 1
+      Base    : boss_card_1
+      Align    : center
+      Time    : 500
+      Alpha    : 255
+      Color    : 255, 255, 255
+      Scale    : 1.0
+   End
+
+StageEnd
+
+Stage : 4
+
+   Tips
+      Text    :"---------------------GKD---------------------"
+      Pos        : -24, 122
+      Count    : 0
+      Base    : start
+      Align    : center
+      Time    : 13000
+      Alpha    : 255
+      Color    : 81, 184, 135
+      Scale    : 1.0
+   End
+
+
+   Tips
+      Text    :"---------------------GHS---------------------"
+      Pos        : -24, 142
+      Count    : 0
+      Base    : start
+      Align    : center
+      Time    : 13000
+      Alpha    : 255
+      Color    : 255, 156, 47
+      Scale    : 1.0
+   End
+
+   #乌鸦阵上线时机
+
+   Tips
+      Text    :"UP"
+      Pos        : 180, 150
+      Count    : 1660
+      Base    : mboss_1
+      Align    : center
+      Time    : 300
+      Alpha    : 255
+      Color    : 100, 255, 100
+      Scale    : 1.0
+   End
+
+   #椛增援子机位置
+
+   Tips
+      Text    :"--------"
+      Pos        : 0, 210
+      Count    : 700
+      Base    : mboss_1
+      Align    : center
+      Time    : 500
+      Alpha    : 255
+      Color    : 100, 100, 255
+      Scale    : 1.0
+   End
+
+   #椛增援魔A扔雷参考
+
+      Tips
+      Text    :"|"
+      Pos        : 50, 150
+      Count    : 700
+      Base    : mboss_1
+      Align    : center
+      Time    : 300
+      Alpha    : 255
+      Color    : 100, 255, 100
+      Scale    : 1.5
+   End
+
+   #魔A关底走位参考
+
+      Tips
+      Text    :"----------------"
+      Pos        : 80, 170
+      Count    : 3700
+      Base    : mboss_1
+      Align    : center
+      Time    : 300r
+      Alpha    : 255
+      Color    : 100, 255, 100
+      Scale    : 1.0
+   End
+
+   #歧符子弹位置
+
+   Tips
+      Text    :"---"
+      Pos        : -5, 176
+      Count    : 1
+      Base    : boss_card_1
+      Align    : center
+      Time    : 840
+      Alpha    : 255
+      Color    : 255, 255, 255
+      Scale    : 1.0
+   End
+
+   #歧符正中位置
+
+   Tips
+      Text    :"|"
+      Pos        : 0, 200
+      Count    : 1
+      Base    : boss_card_1
+      Align    : center
+      Time    : 840
+      Alpha    : 255
+      Color    : 255, 255, 255
+      Scale    : 2.0
+   End
+
+   #照国正中参考线
+
+   Tips
+      Text    :"|"
+      Pos        : 0, 380
+      Count    : 1
+      Base    : boss_card_4
+      Align    : center
+      Time    : 900
+      Alpha    : 255
+      Color    : 255, 255, 255
+      Scale    : 2.0
+   End
+
+   Tips
+      Text    :"|"
+      Pos        : 0, 340
+      Count    : 1
+      Base    : boss_card_4
+      Align    : center
+      Time    : 900
+      Alpha    : 255
+      Color    : 255, 255, 255
+      Scale    : 2.0
+   End
+
+   Tips
+      Text    :"|"
+      Pos        : 0, 300
+      Count    : 1
+      Base    : boss_card_4
+      Align    : center
+      Time    : 900
+      Alpha    : 255
+      Color    : 255, 255, 255
+      Scale    : 2.0
+   End
+
+   Tips
+      Text    :"|"
+      Pos        : 0, 260
+      Count    : 1
+      Base    : boss_card_4
+      Align    : center
+      Time    : 900
+      Alpha    : 255
+      Color    : 255, 255, 255
+      Scale    : 2.0
+   End
+
+   #照国结束
+
+StageEnd
+
+
+
+Stage : 5
+
+   Tips
+      Text    :"---------------------GKD---------------------"
+      Pos        : -24, 122
+      Count    : 0
+      Base    : start
+      Align    : center
+      Time    : 13000
+      Alpha    : 255
+      Color    : 81, 184, 135
+      Scale    : 1.0
+   End
+
+
+   Tips
+      Text    :"---------------------GHS---------------------"
+      Pos        : -24, 142
+      Count    : 0
+      Base    : start
+      Align    : center
+      Time    : 13000
+      Alpha    : 255
+      Color    : 255, 156, 47
+      Scale    : 1.0
+   End
+
+   #5开魔B定位
+
+   Tips
+      Text    :"---"
+      Pos        : 180, 105
+      Count    : 1000
+      Base    : start
+      Align    : center
+      Time    : 500
+      Alpha    : 255
+      Color    : 255, 0, 0
+      Scale    : 1.0
+   End
+
+   #魔CNN关底位置
+   Tips
+      Text    :"|"
+      Pos        : -124, 130
+      Count    : 0
+      Base    : start
+      Align    : center
+      Time    : 13000
+      Alpha    : 255
+      Color    : 100, 100, 255
+      Scale    : 1.0
+   End
+
+   # 客星预占位
+
+   Tips
+      Text    :"+"
+      Pos        : -3, 397
+      Count    : 720
+      Base    : boss_1
+      Align    : center
+      Time    : 360
+      Alpha    : 127
+      Color    : 255, 0, 0
+      Scale    : 1.0
+   End
+
+   #客星走位
+
+   Tips
+      Text    :"+"
+      Pos        : -3, 397
+      Count    : 1
+      Base    : boss_card_1
+      Align    : center
+      Time    : 200
+      Alpha    : 255
+      Color    : 255, 0, 0
+      Scale    : 1.0
+   End
+
+   Tips
+      Text    :"+"
+      Pos        : 4, 397
+      Count    : 150
+      Base    : boss_card_1
+      Align    : center
+      Time    : 200
+      Alpha    : 255
+      Color    : 255, 0, 0
+      Scale    : 1.0
+   End
+
+   Tips
+      Text    :"+"
+      Pos        : -5, 397
+      Count    : 250
+      Base    : boss_card_1
+      Align    : center
+      Time    : 300
+      Alpha    : 255
+      Color    : 255, 0, 0
+      Scale    : 1.0
+   End
+
+   Tips
+      Text    :"+"
+      Pos        : 3, 397
+      Count    : 300
+      Base    : boss_card_1
+      Align    : center
+      Time    : 300
+      Alpha    : 255
+      Color    : 255, 0, 0
+      Scale    : 1.0
+   End
+
+   Tips
+      Text    :"+"
+      Pos        : -5, 427
+      Count    : 540
+      Base    : boss_card_1
+      Align    : center
+      Time    : 300
+      Alpha    : 255
+      Color    : 255, 0, 0
+      Scale    : 1.0
+   End
+
+   Tips
+      Text    :"+"
+      Pos        : 4, 378
+      Count    : 650
+      Base    : boss_card_1
+      Align    : center
+      Time    : 300
+      Alpha    : 255
+      Color    : 255, 0, 0
+      Scale    : 1.0
+   End
+
+   #客星结束
+   #3非提前站正中
+      Tips
+      Text    :"+"
+      Pos        : 0, 397
+      Count    : 1
+      Base    : boss_3
+      Align    : center
+      Time    : 500
+      Alpha    : 255
+      Color    : 255, 0, 0
+      Scale    : 1.0
+   End
+
+StageEnd
+
+Stage : 6
+
+   Tips
+      Text    :"---------------------GKD---------------------"
+      Pos        : -24, 122
+      Count    : 0
+      Base    : start
+      Align    : center
+      Time    : 13000
+      Alpha    : 255
+      Color    : 81, 184, 135
+      Scale    : 1.0
+   End
+
+   Tips
+      Text    :"---------------------GHS---------------------"
+      Pos        : -24, 142
+      Count    : 0
+      Base    : start
+      Align    : center
+      Time    : 13000
+      Alpha    : 255
+      Color    : 255, 156, 47
+      Scale    : 1.0
+   End
+
+   # 魔C右侧子机高度
+
+   Tips
+      Text    :"-----"
+      Pos        : 180, 160
+      Count    : 0
+      Base    : start
+      Align    : center
+      Time    : 5000
+      Alpha    : 255
+      Color    : 100, 100, 255
+      Scale    : 1.0
+   End
+     
+   # 魔C第一只大蝴蝶参考
+
+   Tips
+      Text    :"|"
+      Pos        : 5, 180
+      Count    : 1300
+      Base    : start
+      Align    : center
+      Time    : 200
+      Alpha    : 255
+      Color    : 100, 100, 255
+      Scale    : 2.0
+   End
+
+StageEnd
+
