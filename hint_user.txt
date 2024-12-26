@@ -286,7 +286,7 @@ Stage : 4
 
    Tips
       Text    :"---------------------GHS---------------------"
-      Pos        : -24, 142
+      Pos     : -24, 142
       Count    : 0
       Base    : start
       Align    : center
@@ -296,12 +296,40 @@ Stage : 4
       Scale    : 1.0
    End
 
+   #第1只大蝴蝶速破
+
+   Tips
+      Text  :"|"
+      Pos   : 0, 350
+      Count : 1000
+      Base  : start
+      Align    : center
+      Time    : 600
+      Alpha    : 255
+      Color    : 0, 255, 0
+      Scale    : 2.0
+   End
+
+   #第2只大蝴蝶速破
+
+   Tips
+      Text  :"|"
+      Pos   : 83, 350
+      Count : 2400
+      Base  : start
+      Align    : center
+      Time    : 600
+      Alpha    : 255
+      Color    : 0, 255, 0
+      Scale    : 2.0
+   End
+
    #乌鸦阵下线时机
 
    Tips
       Text    :"DOWN"
       Pos        : 180, 150
-      Count    : 1660
+      Count    : 1600
       Base    : mboss_1
       Align    : center
       Time    : 300
