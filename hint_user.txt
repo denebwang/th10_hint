@@ -366,6 +366,20 @@ Stage : 4
       Scale    : 1.5
    End
 
+   #3吴克第3只速破
+
+      Tips
+      Text  :"|"
+      Pos   : 0, 150
+      Count : 3500
+      Base  : mboss_1
+      Align    : center
+      Time    : 800
+      Alpha    : 255
+      Color    : 0, 255, 0
+      Scale    : 2.0
+   End
+
    #魔A关底走位参考
 
       Tips
