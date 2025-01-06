@@ -8,7 +8,7 @@ Stage : 1
       Count    : 0
       Base    : start
       Align    : center
-      Time    : 8000
+      Time    : 10000
       Alpha    : 255
       Color    : 81, 184, 135
       Scale    : 1.0
@@ -21,7 +21,7 @@ Stage : 1
       Count    : 0
       Base    : start
       Align    : center
-      Time    : 8000
+      Time    : 10 000
       Alpha    : 255
       Color    : 255, 156, 47
       Scale    : 1.0
