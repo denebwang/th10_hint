@@ -189,7 +189,7 @@ Stage : 3
 
    Tips
       Text    :"+"
-      Pos        : -128, 240
+      Pos        : -128, 245
       Count    : 1000
       Base    : start
       Align    : center
