@@ -127,6 +127,34 @@ Stage : 2
    #   Scale    : 2.0
    #End
 
+   #道中符击破提示
+
+   Tips
+      Text    :"B"
+      Pos        : 0, 180
+      Count    : 180
+      Base    : mboss_card_1
+      Align    : center
+      Time    : 60
+      Alpha    : 255
+      Color    : 0, 255, 0
+      Scale    : 1.5
+   End
+
+   #道中符击破时机
+
+   Tips
+      Text    :"[]"
+      Pos        : 0, 150
+      Count    : 420
+      Base    : mboss_card_1
+      Align    : center
+      Time    : 120
+      Alpha    : 255
+      Color    : 0, 255, 0
+      Scale    : 1.0
+   End
+
    #6吴克决死位置
 
    Tips
