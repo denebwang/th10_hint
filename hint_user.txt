@@ -52,6 +52,18 @@ Stage : 1
    End
 
    Tips
+      Text    :"---------------------"
+      Pos        : -50, 5
+      Count    : 1500
+      Base    : start
+      Align    : center
+      Time    : 420
+      Alpha    : 255
+      Color    : 128, 128, 128
+      Scale    : 1.0
+   End
+
+   Tips
       Text    :"---------------------biu---------------------"
       Pos        : 0, 335
       Count    : 1
